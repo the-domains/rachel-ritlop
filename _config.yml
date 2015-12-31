@@ -1,0 +1,28 @@
+name: Rachel Ritlop
+favicon: null
+layout_spectrum: 0.7232845553662628
+typography_spectrum: 0.7927220766432583
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3796355619560927
+  lightness: 0.07966244104318321
+  saturation: 0.5663635090459138
+  rhythmicContrast: 0.12714580493047833
+purpose: []
